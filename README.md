@@ -1,4 +1,4 @@
-# Covicas - A Light Weight Face Recognizer for Multiple Recoginizer Network
+# Aura - Using Facial Tracking to move real-life Objects
 
 ## Settings File
 All the Cofiguration should be done in the settings file.
